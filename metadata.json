@@ -1,0 +1,6 @@
+{
+  "name": "HR AI Studio",
+  "description": "Instagram trending prompts, tutorials, and workflows for photo and video creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
